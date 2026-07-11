@@ -1,5 +1,8 @@
-# Build directory
-build/
+# Executable
+main
+
+# Test text file
+test
 
 # Compiled Object files
 *.slo
