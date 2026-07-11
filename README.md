@@ -28,6 +28,6 @@ gcc -o main main.c
 00000070: 67 6E 61 20 61 6C 69 71 75 61 2E 0A 00 00 00 00  gna aliqua..
 ```
 
-Each row shows the offset, 16 bytes in hex, then those bytes as ASCII,
+Each row shows the offset, 16 bytes in hex, and then those bytes as ASCII;
 non-printable characters are shown as `.`.
 
